@@ -75,6 +75,10 @@
             <input type="text" name="deck_name" placeholder="e.g. AP Biology" required />
             <label class="mb-2">Anki Text Export (.txt)</label>
             <input type="file" name="deck_file" accept=".txt" required />
+            <div style="margin-bottom: 16px;">
+                <input type="checkbox" name="is_public" id="is_public" style="width: auto; margin-right: 8px;" />
+                <label for="is_public">Share to public library</label>
+            </div>
             <button type="submit" class="btn-import">Import</button>
         </form>
         <a href="/" class="btn-back">← Back to subjects</a>

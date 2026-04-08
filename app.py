@@ -8,7 +8,12 @@ import os
 from models import db, User, Deck, UserDeck, Rating
 
 app = Flask(__name__)
-app.config["SECRET_KEY"] = "change-this-to-something-random"
+import json
+
+@app.template_filter('fromjson')
+def fromjson_filter(s):
+    return json.loads(s)
+app.config["SECRET_KEY"] = "kjfvni80w338ihj!!!change-this-to-something-randomhlsbgsolfuhl"
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///dailyquestion.db"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
@@ -118,6 +123,34 @@ def signup():
         return redirect(url_for("home"))
 
     return render_template("signup.html", error=None)
+
+@app.route("/library")
+@login_required
+def library():
+    user_deck_ids = [ud.deck_id for ud in current_user.decks]
+    public_decks = Deck.query.filter_by(is_public=True).all()
+    return render_template("library.html", decks=public_decks, user_deck_ids=user_deck_ids)
+
+@app.route("/library/add/<int:deck_id>")
+@login_required
+def add_deck(deck_id):
+    deck = Deck.query.get_or_404(deck_id)
+    already_added = UserDeck.query.filter_by(user_id=current_user.id, deck_id=deck_id).first()
+    if not already_added:
+        user_deck = UserDeck(user_id=current_user.id, deck_id=deck_id)
+        deck.total_downloads += 1
+        db.session.add(user_deck)
+        db.session.commit()
+    return redirect(url_for("library"))
+
+@app.route("/library/preview/<int:deck_id>")
+@login_required
+def preview_deck(deck_id):
+    deck = Deck.query.get_or_404(deck_id)
+    questions = json.loads(deck.questions)
+    import random
+    sample = random.sample(questions, min(3, len(questions)))
+    return render_template("preview.html", deck=deck, questions=sample)
 
 @app.route("/login", methods=["GET", "POST"])
 def login():
