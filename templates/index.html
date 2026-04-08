@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Daily Question</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #1a1a2e;
+            color: #eaeaea;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .card {
+            background-color: #16213e;
+            border: none;
+            border-radius: 16px;
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+        }
+        .badge {
+            background-color: #0f3460 !important;
+            font-size: 0.85rem;
+            padding: 6px 12px;
+            border-radius: 20px;
+        }
+        .answer-box {
+            background-color: #0f3460;
+            border-radius: 10px;
+            padding: 16px;
+            margin-top: 16px;
+            display: none;
+        }
+        .btn-reveal {
+            background-color: #e94560;
+            border: none;
+            border-radius: 10px;
+            padding: 10px 24px;
+            color: white;
+            font-weight: bold;
+            margin-top: 24px;
+            cursor: pointer;
+        }
+        .btn-reveal:hover {
+            background-color: #c73652;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <span class="badge mb-3">{{ question.subject }}</span>
+        <h2 class="mb-4" style="font-size: 1.4rem; line-height: 1.6;">{{ question.text }}</h2>
+        <button class="btn-reveal" onclick="document.getElementById('answer').style.display='block'; this.style.display='none';">
+            Reveal Answer
+        </button>
+        <div class="answer-box" id="answer">
+            <strong>Answer:</strong> {{ question.answer }}
+        </div>
+    </div>
+</body>
+</html>

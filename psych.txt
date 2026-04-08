@@ -1,0 +1,96 @@
+#separator:tab
+#html:false
+Absolute threshold	Minimum stimulation required to detect a certain light, sound, pressure, etc. 50% of the time (depending on arousal, mood, etc.)
+Signal detection theory	predicts when weak signals will be detected; there is no universal abolute threshold because it depends on the situation and expereince of an individual
+Difference threshold/Just noticeable difference	The minimum difference a person can detect between any two stimuli half the time
+Weber's law	For a difference in two stimuli to be perceptable, they must differ at a constant proportion (which can vary depending on the stimulus)
+Sensory adaptation	Diminished sensitivity as a consequence of constant stimulation, unable to point out that stimulus anymore
+Habituation	Psycological learning process when response to a stimulus is diminished after repeated exposure, can still point out stimulus but are desensitized
+Subliminal stimulation	When stimuli are below one's absolute threshold for conscious awareness, messages may still be sent to stimulate certain actions
+Iris	Regulates amount of light entering the pupil
+Cornea	Eye's shield, focuses light onto the retina through refraction
+Pupil	Allows light to pass through it, regulates the amount of light intake
+Lens	Focuses light into an upside-down image on the retina
+Retina	Back of the eye, focuses rays into electrical signals, what contains the rods and cones
+Fovea	In the center of the retina, provides detailed central vision
+Optic nerve	Recieves information from the retina, transmits it to the brain
+Cones	What percieves color and sends signals to the brain to detect fine detail
+Rods	Work in low-light and help with night vision, work with peripheral vision and motion detection
+Parallel Processing	Aspects of a problem are processed simutaneously instead of step-by-step, and subdivions like color, mevement, form, etc are analyzed seperately
+Young helmholtz Trichomatic Theory	The theory which states the human eye can percieve color due to cones which are each sensitive to different ranges of light wavelengths.
+Opponent-Process Theory	Color is percieved through three opposing colors: red/green, blue/yellow, and black/white. Tiring out one will cause the other to temporarily take over.
+Afterimages	The visual illusion where an image remains visible when it is stared at, even after the original image is gone. This is because the photoreceptor cells become fatigued.
+Hue	The color of the light reflected from an object
+Brightness	How light or dark a hue appears to be
+Saturation	Purity of vibrance of a hue
+Nearsightedness	Nearby objects appear closer than those further away
+Farsightedness	Distant objects seem clearer than those closer
+Color Vision Deficiency (Colorblindness)	Seeing colors differently than most people; it may be hard to tell differences between certain colors
+Prosopagnosia	Face blindness; the imability to recognize faces. It is very common, with 1/50 people having it.
+Blindsight	The ability to discriminate visual stimuli without a conscious awareness about them. This is due to damage to the visual cortex.
+Sound Waves	Vibrating molecules of air
+Loudness	The strength or amplitude of sound waves
+Frequency	The number of complete wavelengths that pass a point in a given time
+Pitch	A tone's experienced highness of lowness, which depends on the frequency
+Amplitude	The height of a wave, which determines the loudness of a sound.
+Pinna	Location: outer ear Collects and funnels sound waves into the ear canal
+Auditory Canal	Location: outer ear Allows sound waves to travel to the eardrum, protects from debris and bacteria
+Eardrum	Location: outer ear Vibrates due to sound waves, and then transmits these vibrations to the inner ear
+Eastachian Tube	Location: middle ear The canal which connects from the ear to the back of the nose, allowing the middle air to maintain equalized air pressure.
+Maleus/Hammer	Location: middle ear Transmits sound vibrations from the ear drum to the other bones
+Incus/Anvil	Location: middle ear Recieves the vibrations from the malleus and transmits them to the stapes
+Stapes/Stirrup	Location: middle ear Transmits vibrations to the inner ear by pressing against the oval window
+Oval Window	Location: between the middle and inner ear Transmits vibration from the stapes to the cochlea
+Semicircular Canals	Location: inner ear Fluid-filled tubes which sense the head's rotation and help mantain balance
+Cochlea	Location: inner ear Recieves sound waves which are converted to electrical signals and amplified with the hair cells in the basilar membrane
+Basilar Membrane	Location: cochlea What converts sound vibrations into electrical signals using hair cells
+Organ of Corti	Location: cochlea Gets vibrations passed from the basilar membrane and hair cells send electrical signals
+Auditory Nerve	What transmitts sound vibrations from the inner ear to the brain, which the auditory cortex interprets as sound
+Place Theory	The hairs in the cochlea respond to different frequencies of sound based on location. High frequencies are processed at the cochlea's base, while low ones are processed at the apex.
+Frequency Theory:	When pulses travel up the auditory nerve to the brain, the rate of the pulse matches the frequency of the tone. (Does not apply to higher pitches)
+Volley Principal	Neural cells alternate firing, and when fired in rapid succession, combined frequency is acheived
+Sound Localization	The ability to tell where a sound originates from, uses parallel processing to locate
+Conduction Hearing Loss	Caused by problems with the ear canal, ear drum, or middle ear. Hearing aids can help correct.
+Sensorineural Hearing Loss	Nerve related hearing loss; caused by problems with the inner ear or auditory nerves. Only a cochlear implant can correct.
+Chemical Senses	The ability to detect and respond to chemical stimuli in an enviorment. Include taste and smell.
+Energy Senses	The ability to percieve energy in different forms. Include vision, hearning, and touch.
+Cutaneous (skin) Receptors	Sensory receptors in the skin which detect stimuli and allows them to be processed by the central nervous system
+Thermoreceptors	A type of skin receptor that detects changes in tempature
+Phantom Pain	A pain that is commonly felt by amputees; the feeling of pain in nonexistant limbs
+Gate-Control Theory	The theory that the spinal cord contains a gate which can block or allow pain signals to pass
+Nontaster	Has a low number of taste buds and low taste sensitivity
+Mediumtasters	Have an average amount of taste buds and a typical level of taste sensations
+Super Tasters	Have a high number of taste buds and are more sensitive to certain bitter and sweet tastes
+Sensory Interaction	The principal that one sense can influence another
+McGurk Effect	When an auditory component of one sound is paired with the visual component of another sound, it can lead to the perception a a third sound.
+Synesthesia	Stimulation of one sense leads to an automatic and involuntary stimulation of a second sense
+Kinesthetics	The sense of body parts and their movements
+Vestibular Sense	What moniters a head's position and movement and sense of balance; what maintains equilibrium in the inner ear
+Perception	How we select, organize, and interpret sensations
+Sensation	How information is gathered from the five senses
+Top Down Processing	Starts with prior knowledge, and constructs perceptions using that past experience
+Bottom-Up Processing	When there is no prior knowledge, smaller,  individual elements progress to a whole
+Selective Attetion	Awareness is focused only on a limited aspect of what we experience in total
+Coctail Party Effect	Focusing on one important task or stimuli and losing awareness of all other things
+Change Blindness	Failing to see changes in an enviorment
+Inattetional Blindness	The inability to see an object or person in an engrossing scene
+Visual Capture	The tendency for vision to dominate other senses
+Gestalt	Emphasizes the tendency to integrate pieces of information into meaningful wholes
+Proximity Grouping	Grouping figures based on closeness
+Similarity Grouping	Grouping similar figures together
+Continuity Grouping	Percieving smooth, continuous patterns instead of broken or divided ones
+Connectedness Grouping	Objects seem more connected then seperate
+Closure Grouping	Filling in gaps to create a whole, complete object
+Binocular Cues	The idea that depth perception of objects depend on the use of two eyes
+Retinal Disparity	The difference between two images which are created using binocular cues. The brain computes the distance of the image based on the disparity.
+Convergence	The eyes physically move together to focus on close objects, while they are further apart when an object is further away
+Monocular Cues	Cues which are available to either eye alone and can influence everyday perceptions
+Perceptual Constancy	What allows us to percieve objects without being decieved by a change in shape, size, brightness, or color
+Size Constancy	Images can be percieved based off of knowledge of general size, however we can be tricked when we see size relative to distance
+Shape Constancies	Angles and views can change the perception of an object, even when that object hasn't actually changed
+Lightness Constancy	Lightness which is percieved depends on the amount of light an object reflects onto its surroundings
+Color Constancy	Percieving familiar objects to have a constant color, even if the actual color changes under different illuminaton
+Perceptual Adaptation	Artificially displaced or inverted fields of vision can be adjusted
+Perceptual Set/Schema	How one thing can be percieved but another not based on assumptions and experiences
+Context Effects	Percieving things based on context
+Human Factors Psycologist	A field which designs appliances, work settings, and machines that fit into normal perceptions

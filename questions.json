@@ -1,0 +1,472 @@
+[
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Absolute threshold",
+        "answer": "Minimum stimulation required to detect a certain light, sound, pressure, etc. 50% of the time (depending on arousal, mood, etc.)"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Signal detection theory",
+        "answer": "predicts when weak signals will be detected; there is no universal abolute threshold because it depends on the situation and expereince of an individual"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Difference threshold/Just noticeable difference",
+        "answer": "The minimum difference a person can detect between any two stimuli half the time"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Weber's law",
+        "answer": "For a difference in two stimuli to be perceptable, they must differ at a constant proportion (which can vary depending on the stimulus)"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Sensory adaptation",
+        "answer": "Diminished sensitivity as a consequence of constant stimulation, unable to point out that stimulus anymore"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Habituation",
+        "answer": "Psycological learning process when response to a stimulus is diminished after repeated exposure, can still point out stimulus but are desensitized"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Subliminal stimulation",
+        "answer": "When stimuli are below one's absolute threshold for conscious awareness, messages may still be sent to stimulate certain actions"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Iris",
+        "answer": "Regulates amount of light entering the pupil"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Cornea",
+        "answer": "Eye's shield, focuses light onto the retina through refraction"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Pupil",
+        "answer": "Allows light to pass through it, regulates the amount of light intake"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Lens",
+        "answer": "Focuses light into an upside-down image on the retina"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Retina",
+        "answer": "Back of the eye, focuses rays into electrical signals, what contains the rods and cones"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Fovea",
+        "answer": "In the center of the retina, provides detailed central vision"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Optic nerve",
+        "answer": "Recieves information from the retina, transmits it to the brain"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Cones",
+        "answer": "What percieves color and sends signals to the brain to detect fine detail"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Rods",
+        "answer": "Work in low-light and help with night vision, work with peripheral vision and motion detection"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Parallel Processing",
+        "answer": "Aspects of a problem are processed simutaneously instead of step-by-step, and subdivions like color, mevement, form, etc are analyzed seperately"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Young helmholtz Trichomatic Theory",
+        "answer": "The theory which states the human eye can percieve color due to cones which are each sensitive to different ranges of light wavelengths."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Opponent-Process Theory",
+        "answer": "Color is percieved through three opposing colors: red/green, blue/yellow, and black/white. Tiring out one will cause the other to temporarily take over."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Afterimages",
+        "answer": "The visual illusion where an image remains visible when it is stared at, even after the original image is gone. This is because the photoreceptor cells become fatigued."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Hue",
+        "answer": "The color of the light reflected from an object"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Brightness",
+        "answer": "How light or dark a hue appears to be"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Saturation",
+        "answer": "Purity of vibrance of a hue"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Nearsightedness",
+        "answer": "Nearby objects appear closer than those further away"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Farsightedness",
+        "answer": "Distant objects seem clearer than those closer"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Color Vision Deficiency (Colorblindness)",
+        "answer": "Seeing colors differently than most people; it may be hard to tell differences between certain colors"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Prosopagnosia",
+        "answer": "Face blindness; the imability to recognize faces. It is very common, with 1/50 people having it."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Blindsight",
+        "answer": "The ability to discriminate visual stimuli without a conscious awareness about them. This is due to damage to the visual cortex."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Sound Waves",
+        "answer": "Vibrating molecules of air"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Loudness",
+        "answer": "The strength or amplitude of sound waves"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Frequency",
+        "answer": "The number of complete wavelengths that pass a point in a given time"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Pitch",
+        "answer": "A tone's experienced highness of lowness, which depends on the frequency"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Amplitude",
+        "answer": "The height of a wave, which determines the loudness of a sound."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Pinna",
+        "answer": "Location: outer ear Collects and funnels sound waves into the ear canal"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Auditory Canal",
+        "answer": "Location: outer ear Allows sound waves to travel to the eardrum, protects from debris and bacteria"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Eardrum",
+        "answer": "Location: outer ear Vibrates due to sound waves, and then transmits these vibrations to the inner ear"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Eastachian Tube",
+        "answer": "Location: middle ear The canal which connects from the ear to the back of the nose, allowing the middle air to maintain equalized air pressure."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Maleus/Hammer",
+        "answer": "Location: middle ear Transmits sound vibrations from the ear drum to the other bones"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Incus/Anvil",
+        "answer": "Location: middle ear Recieves the vibrations from the malleus and transmits them to the stapes"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Stapes/Stirrup",
+        "answer": "Location: middle ear Transmits vibrations to the inner ear by pressing against the oval window"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Oval Window",
+        "answer": "Location: between the middle and inner ear Transmits vibration from the stapes to the cochlea"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Semicircular Canals",
+        "answer": "Location: inner ear Fluid-filled tubes which sense the head's rotation and help mantain balance"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Cochlea",
+        "answer": "Location: inner ear Recieves sound waves which are converted to electrical signals and amplified with the hair cells in the basilar membrane"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Basilar Membrane",
+        "answer": "Location: cochlea What converts sound vibrations into electrical signals using hair cells"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Organ of Corti",
+        "answer": "Location: cochlea Gets vibrations passed from the basilar membrane and hair cells send electrical signals"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Auditory Nerve",
+        "answer": "What transmitts sound vibrations from the inner ear to the brain, which the auditory cortex interprets as sound"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Place Theory",
+        "answer": "The hairs in the cochlea respond to different frequencies of sound based on location. High frequencies are processed at the cochlea's base, while low ones are processed at the apex."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Frequency Theory:",
+        "answer": "When pulses travel up the auditory nerve to the brain, the rate of the pulse matches the frequency of the tone. (Does not apply to higher pitches)"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Volley Principal",
+        "answer": "Neural cells alternate firing, and when fired in rapid succession, combined frequency is acheived"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Sound Localization",
+        "answer": "The ability to tell where a sound originates from, uses parallel processing to locate"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Conduction Hearing Loss",
+        "answer": "Caused by problems with the ear canal, ear drum, or middle ear. Hearing aids can help correct."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Sensorineural Hearing Loss",
+        "answer": "Nerve related hearing loss; caused by problems with the inner ear or auditory nerves. Only a cochlear implant can correct."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Chemical Senses",
+        "answer": "The ability to detect and respond to chemical stimuli in an enviorment. Include taste and smell."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Energy Senses",
+        "answer": "The ability to percieve energy in different forms. Include vision, hearning, and touch."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Cutaneous (skin) Receptors",
+        "answer": "Sensory receptors in the skin which detect stimuli and allows them to be processed by the central nervous system"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Thermoreceptors",
+        "answer": "A type of skin receptor that detects changes in tempature"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Phantom Pain",
+        "answer": "A pain that is commonly felt by amputees; the feeling of pain in nonexistant limbs"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Gate-Control Theory",
+        "answer": "The theory that the spinal cord contains a gate which can block or allow pain signals to pass"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Nontaster",
+        "answer": "Has a low number of taste buds and low taste sensitivity"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Mediumtasters",
+        "answer": "Have an average amount of taste buds and a typical level of taste sensations"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Super Tasters",
+        "answer": "Have a high number of taste buds and are more sensitive to certain bitter and sweet tastes"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Sensory Interaction",
+        "answer": "The principal that one sense can influence another"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: McGurk Effect",
+        "answer": "When an auditory component of one sound is paired with the visual component of another sound, it can lead to the perception a a third sound."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Synesthesia",
+        "answer": "Stimulation of one sense leads to an automatic and involuntary stimulation of a second sense"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Kinesthetics",
+        "answer": "The sense of body parts and their movements"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Vestibular Sense",
+        "answer": "What moniters a head's position and movement and sense of balance; what maintains equilibrium in the inner ear"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Perception",
+        "answer": "How we select, organize, and interpret sensations"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Sensation",
+        "answer": "How information is gathered from the five senses"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Top Down Processing",
+        "answer": "Starts with prior knowledge, and constructs perceptions using that past experience"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Bottom-Up Processing",
+        "answer": "When there is no prior knowledge, smaller,  individual elements progress to a whole"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Selective Attetion",
+        "answer": "Awareness is focused only on a limited aspect of what we experience in total"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Coctail Party Effect",
+        "answer": "Focusing on one important task or stimuli and losing awareness of all other things"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Change Blindness",
+        "answer": "Failing to see changes in an enviorment"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Inattetional Blindness",
+        "answer": "The inability to see an object or person in an engrossing scene"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Visual Capture",
+        "answer": "The tendency for vision to dominate other senses"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Gestalt",
+        "answer": "Emphasizes the tendency to integrate pieces of information into meaningful wholes"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Proximity Grouping",
+        "answer": "Grouping figures based on closeness"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Similarity Grouping",
+        "answer": "Grouping similar figures together"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Continuity Grouping",
+        "answer": "Percieving smooth, continuous patterns instead of broken or divided ones"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Connectedness Grouping",
+        "answer": "Objects seem more connected then seperate"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Closure Grouping",
+        "answer": "Filling in gaps to create a whole, complete object"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Binocular Cues",
+        "answer": "The idea that depth perception of objects depend on the use of two eyes"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Retinal Disparity",
+        "answer": "The difference between two images which are created using binocular cues. The brain computes the distance of the image based on the disparity."
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Convergence",
+        "answer": "The eyes physically move together to focus on close objects, while they are further apart when an object is further away"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Monocular Cues",
+        "answer": "Cues which are available to either eye alone and can influence everyday perceptions"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Perceptual Constancy",
+        "answer": "What allows us to percieve objects without being decieved by a change in shape, size, brightness, or color"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Size Constancy",
+        "answer": "Images can be percieved based off of knowledge of general size, however we can be tricked when we see size relative to distance"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Shape Constancies",
+        "answer": "Angles and views can change the perception of an object, even when that object hasn't actually changed"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Lightness Constancy",
+        "answer": "Lightness which is percieved depends on the amount of light an object reflects onto its surroundings"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Color Constancy",
+        "answer": "Percieving familiar objects to have a constant color, even if the actual color changes under different illuminaton"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Perceptual Adaptation",
+        "answer": "Artificially displaced or inverted fields of vision can be adjusted"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Perceptual Set/Schema",
+        "answer": "How one thing can be percieved but another not based on assumptions and experiences"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Context Effects",
+        "answer": "Percieving things based on context"
+    },
+    {
+        "subject": "AP Psychology",
+        "text": "Define: Human Factors Psycologist",
+        "answer": "A field which designs appliances, work settings, and machines that fit into normal perceptions"
+    }
+]
