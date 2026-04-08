@@ -33,23 +33,46 @@
             font-size: 1rem;
             text-decoration: none;
             text-align: center;
-            text-transform: capitalize;
             transition: background-color 0.2s;
         }
         .subject-btn:hover {
             background-color: #e94560;
             color: #ffffff;
         }
+        .nav-links {
+            text-align: right;
+            margin-bottom: 24px;
+        }
+        .nav-links a {
+            color: #aaaaaa;
+            text-decoration: none;
+            margin-left: 16px;
+        }
+        .nav-links a:hover { color: #ffffff; }
     </style>
 </head>
 <body>
     <div class="card">
+        <div class="nav-links">
+            {% if current_user.is_authenticated %}
+                <span>{{ current_user.username }}</span>
+                <a href="/logout">Log out</a>
+            {% else %}
+                <a href="/login">Log in</a>
+                <a href="/signup">Sign up</a>
+            {% endif %}
+        </div>
         <h1 class="mb-4">Daily Question</h1>
-        <p class="mb-4">Choose a subject:</p>
-        {% for subject in subjects %}
-            <a href="/{{ subject }}" class="subject-btn">{{ subject.replace("-", " ") }}</a>
-        {% endfor %}
-        <a href="/import" class="subject-btn" style="background-color: #e94560; margin-top: 8px;">+ Import Deck</a>
+        {% if decks %}
+            {% for deck in decks %}
+                <a href="/deck/{{ deck.id }}" class="subject-btn">{{ deck.name }}</a>
+            {% endfor %}
+        {% else %}
+            <p style="color: #aaaaaa;">No decks yet. Import one to get started!</p>
+        {% endif %}
+        {% if current_user.is_authenticated %}
+            <a href="/import" class="subject-btn" style="background-color: #e94560; margin-top: 8px;">+ Import Deck</a>
+        {% endif %}
     </div>
 </body>
 </html>
