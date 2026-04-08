@@ -1,0 +1,2362 @@
+[
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Hydrogen?",
+        "answer": "H"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol H?",
+        "answer": "Hydrogen"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Hydrogen?",
+        "answer": "1"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Hydrogen?",
+        "answer": "nonmetal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Helium?",
+        "answer": "He"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol He?",
+        "answer": "Helium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Helium?",
+        "answer": "2"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Helium?",
+        "answer": "nobel gas"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Lithium?",
+        "answer": "Li"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Li?",
+        "answer": "Lithium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Lithium?",
+        "answer": "3"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Lithium?",
+        "answer": "alkali metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Beryllium?",
+        "answer": "Be"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Be?",
+        "answer": "Beryllium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Beryllium?",
+        "answer": "4"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Beryllium?",
+        "answer": "alkali earth metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Boron?",
+        "answer": "B"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol B?",
+        "answer": "Boron"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Boron?",
+        "answer": "5"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Boron?",
+        "answer": "metalloid"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Carbon?",
+        "answer": "C"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol C?",
+        "answer": "Carbon"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Carbon?",
+        "answer": "6"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Carbon?",
+        "answer": "nonmetal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Nitrogen?",
+        "answer": "N"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol N?",
+        "answer": "Nitrogen"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Nitrogen?",
+        "answer": "7"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Nitrogen?",
+        "answer": "nonmetal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Oxygen?",
+        "answer": "O"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol O?",
+        "answer": "Oxygen"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Oxygen?",
+        "answer": "8"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Oxygen?",
+        "answer": "nonmetal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Fluorine?",
+        "answer": "F"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol F?",
+        "answer": "Fluorine"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Fluorine?",
+        "answer": "9"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Fluorine?",
+        "answer": "halogen"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Neon?",
+        "answer": "Ne"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ne?",
+        "answer": "Neon"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Neon?",
+        "answer": "10"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Neon?",
+        "answer": "nobel gas"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Sodium?",
+        "answer": "Na"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Na?",
+        "answer": "Sodium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Sodium?",
+        "answer": "11"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Sodium?",
+        "answer": "alkali metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Magnesium?",
+        "answer": "Mg"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Mg?",
+        "answer": "Magnesium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Magnesium?",
+        "answer": "12"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Magnesium?",
+        "answer": "alkali earth metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Aluminum?",
+        "answer": "Al"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Al?",
+        "answer": "Aluminum"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Aluminum?",
+        "answer": "13"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Aluminum?",
+        "answer": "post transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Silicon?",
+        "answer": "Si"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Si?",
+        "answer": "Silicon"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Silicon?",
+        "answer": "14"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Silicon?",
+        "answer": "metalloid"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Phosphorus?",
+        "answer": "P"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol P?",
+        "answer": "Phosphorus"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Phosphorus?",
+        "answer": "15"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Phosphorus?",
+        "answer": "nonmetal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Sulfur?",
+        "answer": "S"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol S?",
+        "answer": "Sulfur"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Sulfur?",
+        "answer": "16"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Sulfur?",
+        "answer": "nonmetal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Chlorine?",
+        "answer": "Cl"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Cl?",
+        "answer": "Chlorine"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Chlorine?",
+        "answer": "17"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Chlorine?",
+        "answer": "halogen"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Argon?",
+        "answer": "Ar"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ar?",
+        "answer": "Argon"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Argon?",
+        "answer": "18"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Argon?",
+        "answer": "nobel gas"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Potassium?",
+        "answer": "K"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol K?",
+        "answer": "Potassium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Potassium?",
+        "answer": "19"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Potassium?",
+        "answer": "alkali metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Calcium?",
+        "answer": "Ca"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ca?",
+        "answer": "Calcium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Calcium?",
+        "answer": "20"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Calcium?",
+        "answer": "alkali earth metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Scandium?",
+        "answer": "Sc"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Sc?",
+        "answer": "Scandium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Scandium?",
+        "answer": "21"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Scandium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Titanium?",
+        "answer": "Ti"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ti?",
+        "answer": "Titanium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Titanium?",
+        "answer": "22"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Titanium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Vanadium?",
+        "answer": "V"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol V?",
+        "answer": "Vanadium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Vanadium?",
+        "answer": "23"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Vanadium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Chromium?",
+        "answer": "Cr"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Cr?",
+        "answer": "Chromium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Chromium?",
+        "answer": "24"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Chromium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Manganese?",
+        "answer": "Mn"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Mn?",
+        "answer": "Manganese"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Manganese?",
+        "answer": "25"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Manganese?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Iron?",
+        "answer": "Fe"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Fe?",
+        "answer": "Iron"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Iron?",
+        "answer": "26"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Iron?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Cobalt?",
+        "answer": "Co"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Co?",
+        "answer": "Cobalt"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Cobalt?",
+        "answer": "27"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Cobalt?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Nickel?",
+        "answer": "Ni"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ni?",
+        "answer": "Nickel"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Nickel?",
+        "answer": "28"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Nickel?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Copper?",
+        "answer": "Cu"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Cu?",
+        "answer": "Copper"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Copper?",
+        "answer": "29"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Copper?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Zinc?",
+        "answer": "Zn"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Zn?",
+        "answer": "Zinc"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Zinc?",
+        "answer": "30"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Zinc?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Gallium?",
+        "answer": "Ga"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ga?",
+        "answer": "Gallium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Gallium?",
+        "answer": "31"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Gallium?",
+        "answer": "post transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Germanium?",
+        "answer": "Ge"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ge?",
+        "answer": "Germanium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Germanium?",
+        "answer": "32"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Germanium?",
+        "answer": "metalloid"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Arsenic?",
+        "answer": "As"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol As?",
+        "answer": "Arsenic"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Arsenic?",
+        "answer": "33"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Arsenic?",
+        "answer": "metalloid"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Selenium?",
+        "answer": "Se"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Se?",
+        "answer": "Selenium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Selenium?",
+        "answer": "34"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Selenium?",
+        "answer": "nonmetal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Bromine?",
+        "answer": "Br"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Br?",
+        "answer": "Bromine"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Bromine?",
+        "answer": "35"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Bromine?",
+        "answer": "halogen"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Krypton?",
+        "answer": "Kr"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Kr?",
+        "answer": "Krypton"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Krypton?",
+        "answer": "36"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Krypton?",
+        "answer": "nobel gas"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Rubidium?",
+        "answer": "Rb"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Rb?",
+        "answer": "Rubidium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Rubidium?",
+        "answer": "37"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Rubidium?",
+        "answer": "alkali metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Strontium?",
+        "answer": "Sr"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Sr?",
+        "answer": "Strontium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Strontium?",
+        "answer": "38"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Strontium?",
+        "answer": "alkali earth metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Yttrium?",
+        "answer": "Y"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Y?",
+        "answer": "Yttrium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Yttrium?",
+        "answer": "39"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Yttrium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Zirconium?",
+        "answer": "Zr"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Zr?",
+        "answer": "Zirconium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Zirconium?",
+        "answer": "40"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Zirconium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Niobium?",
+        "answer": "Nb"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Nb?",
+        "answer": "Niobium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Niobium?",
+        "answer": "41"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Niobium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Molybdenum?",
+        "answer": "Mo"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Mo?",
+        "answer": "Molybdenum"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Molybdenum?",
+        "answer": "42"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Molybdenum?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Technetium?",
+        "answer": "Tc"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Tc?",
+        "answer": "Technetium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Technetium?",
+        "answer": "43"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Technetium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Ruthenium?",
+        "answer": "Ru"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ru?",
+        "answer": "Ruthenium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Ruthenium?",
+        "answer": "44"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Ruthenium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Rhodium?",
+        "answer": "Rh"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Rh?",
+        "answer": "Rhodium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Rhodium?",
+        "answer": "45"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Rhodium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Palladium?",
+        "answer": "Pd"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Pd?",
+        "answer": "Palladium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Palladium?",
+        "answer": "46"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Palladium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Silver?",
+        "answer": "Ag"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ag?",
+        "answer": "Silver"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Silver?",
+        "answer": "47"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Silver?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Cadmium?",
+        "answer": "Cd"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Cd?",
+        "answer": "Cadmium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Cadmium?",
+        "answer": "48"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Cadmium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Indium?",
+        "answer": "In"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol In?",
+        "answer": "Indium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Indium?",
+        "answer": "49"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Indium?",
+        "answer": "post transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Tin?",
+        "answer": "Sn"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Sn?",
+        "answer": "Tin"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Tin?",
+        "answer": "50"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Tin?",
+        "answer": "post transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Antimony?",
+        "answer": "Sb"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Sb?",
+        "answer": "Antimony"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Antimony?",
+        "answer": "51"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Antimony?",
+        "answer": "metalloid"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Tellurium?",
+        "answer": "Te"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Te?",
+        "answer": "Tellurium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Tellurium?",
+        "answer": "52"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Tellurium?",
+        "answer": "metalloid"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Iodine?",
+        "answer": "I"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol I?",
+        "answer": "Iodine"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Iodine?",
+        "answer": "53"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Iodine?",
+        "answer": "halogen"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Xenon?",
+        "answer": "Xe"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Xe?",
+        "answer": "Xenon"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Xenon?",
+        "answer": "54"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Xenon?",
+        "answer": "nobel gas"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Cesium?",
+        "answer": "Cs"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Cs?",
+        "answer": "Cesium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Cesium?",
+        "answer": "55"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Cesium?",
+        "answer": "alkali metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Barium?",
+        "answer": "Ba"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ba?",
+        "answer": "Barium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Barium?",
+        "answer": "56"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Barium?",
+        "answer": "alkali earth metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Lanthanum?",
+        "answer": "La"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol La?",
+        "answer": "Lanthanum"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Lanthanum?",
+        "answer": "57"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Lanthanum?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Cerium?",
+        "answer": "Ce"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ce?",
+        "answer": "Cerium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Cerium?",
+        "answer": "58"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Cerium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Praseodymium?",
+        "answer": "Pr"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Pr?",
+        "answer": "Praseodymium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Praseodymium?",
+        "answer": "59"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Praseodymium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Neodymium?",
+        "answer": "Nd"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Nd?",
+        "answer": "Neodymium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Neodymium?",
+        "answer": "60"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Neodymium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Promethium?",
+        "answer": "Pm"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Pm?",
+        "answer": "Promethium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Promethium?",
+        "answer": "61"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Promethium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Samarium?",
+        "answer": "Sm"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Sm?",
+        "answer": "Samarium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Samarium?",
+        "answer": "62"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Samarium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Europium?",
+        "answer": "Eu"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Eu?",
+        "answer": "Europium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Europium?",
+        "answer": "63"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Europium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Gadolinium?",
+        "answer": "Gd"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Gd?",
+        "answer": "Gadolinium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Gadolinium?",
+        "answer": "64"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Gadolinium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Terbium?",
+        "answer": "Tb"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Tb?",
+        "answer": "Terbium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Terbium?",
+        "answer": "65"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Terbium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Dysprosium?",
+        "answer": "Dy"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Dy?",
+        "answer": "Dysprosium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Dysprosium?",
+        "answer": "66"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Dysprosium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Holmium?",
+        "answer": "Ho"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ho?",
+        "answer": "Holmium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Holmium?",
+        "answer": "67"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Holmium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Erbium?",
+        "answer": "Er"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Er?",
+        "answer": "Erbium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Erbium?",
+        "answer": "68"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Erbium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Thulium?",
+        "answer": "Tm"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Tm?",
+        "answer": "Thulium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Thulium?",
+        "answer": "69"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Thulium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Ytterbium?",
+        "answer": "Yb"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Yb?",
+        "answer": "Ytterbium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Ytterbium?",
+        "answer": "70"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Ytterbium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Lutetium?",
+        "answer": "Lu"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Lu?",
+        "answer": "Lutetium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Lutetium?",
+        "answer": "71"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Lutetium?",
+        "answer": "lanthanide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Hafnium?",
+        "answer": "Hf"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Hf?",
+        "answer": "Hafnium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Hafnium?",
+        "answer": "72"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Hafnium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Tantalum?",
+        "answer": "Ta"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ta?",
+        "answer": "Tantalum"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Tantalum?",
+        "answer": "73"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Tantalum?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Tungsten?",
+        "answer": "W"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol W?",
+        "answer": "Tungsten"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Tungsten?",
+        "answer": "74"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Tungsten?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Rhenium?",
+        "answer": "Re"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Re?",
+        "answer": "Rhenium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Rhenium?",
+        "answer": "75"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Rhenium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Osmium?",
+        "answer": "Os"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Os?",
+        "answer": "Osmium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Osmium?",
+        "answer": "76"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Osmium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Iridium?",
+        "answer": "Ir"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ir?",
+        "answer": "Iridium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Iridium?",
+        "answer": "77"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Iridium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Platinum?",
+        "answer": "Pt"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Pt?",
+        "answer": "Platinum"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Platinum?",
+        "answer": "78"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Platinum?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Gold?",
+        "answer": "Au"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Au?",
+        "answer": "Gold"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Gold?",
+        "answer": "79"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Gold?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Mercury?",
+        "answer": "Hg"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Hg?",
+        "answer": "Mercury"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Mercury?",
+        "answer": "80"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Mercury?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Thallium?",
+        "answer": "Tl"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Tl?",
+        "answer": "Thallium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Thallium?",
+        "answer": "81"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Thallium?",
+        "answer": "post transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Lead?",
+        "answer": "Pb"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Pb?",
+        "answer": "Lead"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Lead?",
+        "answer": "82"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Lead?",
+        "answer": "post transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Bismuth?",
+        "answer": "Bi"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Bi?",
+        "answer": "Bismuth"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Bismuth?",
+        "answer": "83"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Bismuth?",
+        "answer": "post transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Polonium?",
+        "answer": "Po"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Po?",
+        "answer": "Polonium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Polonium?",
+        "answer": "84"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Polonium?",
+        "answer": "metalloid"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Astatine?",
+        "answer": "At"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol At?",
+        "answer": "Astatine"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Astatine?",
+        "answer": "85"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Astatine?",
+        "answer": "halogen"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Radon?",
+        "answer": "Rn"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Rn?",
+        "answer": "Radon"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Radon?",
+        "answer": "86"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Radon?",
+        "answer": "nobel gas"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Francium?",
+        "answer": "Fr"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Fr?",
+        "answer": "Francium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Francium?",
+        "answer": "87"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Francium?",
+        "answer": "alkali metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Radium?",
+        "answer": "Ra"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ra?",
+        "answer": "Radium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Radium?",
+        "answer": "88"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Radium?",
+        "answer": "alkali earth metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Actinium?",
+        "answer": "Ac"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ac?",
+        "answer": "Actinium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Actinium?",
+        "answer": "89"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Actinium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Thorium?",
+        "answer": "Th"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Th?",
+        "answer": "Thorium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Thorium?",
+        "answer": "90"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Thorium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Protactinium?",
+        "answer": "Pa"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Pa?",
+        "answer": "Protactinium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Protactinium?",
+        "answer": "91"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Protactinium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Uranium?",
+        "answer": "U"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol U?",
+        "answer": "Uranium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Uranium?",
+        "answer": "92"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Uranium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Neptunium?",
+        "answer": "Np"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Np?",
+        "answer": "Neptunium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Neptunium?",
+        "answer": "93"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Neptunium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Plutonium?",
+        "answer": "Pu"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Pu?",
+        "answer": "Plutonium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Plutonium?",
+        "answer": "94"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Plutonium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Americium?",
+        "answer": "Am"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Am?",
+        "answer": "Americium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Americium?",
+        "answer": "95"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Americium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Curium?",
+        "answer": "Cm"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Cm?",
+        "answer": "Curium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Curium?",
+        "answer": "96"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Curium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Berkelium?",
+        "answer": "Bk"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Bk?",
+        "answer": "Berkelium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Berkelium?",
+        "answer": "97"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Berkelium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Californium?",
+        "answer": "Cf"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Cf?",
+        "answer": "Californium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Californium?",
+        "answer": "98"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Californium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Einsteinium?",
+        "answer": "Es"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Es?",
+        "answer": "Einsteinium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Einsteinium?",
+        "answer": "99"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Einsteinium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Fermium?",
+        "answer": "Fm"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Fm?",
+        "answer": "Fermium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Fermium?",
+        "answer": "100"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Fermium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Mendelevium?",
+        "answer": "Md"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Md?",
+        "answer": "Mendelevium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Mendelevium?",
+        "answer": "101"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Mendelevium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Nobelium?",
+        "answer": "No"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol No?",
+        "answer": "Nobelium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Nobelium?",
+        "answer": "102"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Nobelium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Lawrencium?",
+        "answer": "Lr"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Lr?",
+        "answer": "Lawrencium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Lawrencium?",
+        "answer": "103"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Lawrencium?",
+        "answer": "actinide"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Rutherfordium?",
+        "answer": "Rf"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Rf?",
+        "answer": "Rutherfordium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Rutherfordium?",
+        "answer": "104"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Rutherfordium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Dubnium?",
+        "answer": "Db"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Db?",
+        "answer": "Dubnium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Dubnium?",
+        "answer": "105"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Dubnium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Seaborgium?",
+        "answer": "Sg"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Sg?",
+        "answer": "Seaborgium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Seaborgium?",
+        "answer": "106"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Seaborgium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Bohrium?",
+        "answer": "Bh"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Bh?",
+        "answer": "Bohrium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Bohrium?",
+        "answer": "107"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Bohrium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Hassium?",
+        "answer": "Hs"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Hs?",
+        "answer": "Hassium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Hassium?",
+        "answer": "108"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Hassium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Meitnerium?",
+        "answer": "Mt"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Mt?",
+        "answer": "Meitnerium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Meitnerium?",
+        "answer": "109"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Meitnerium?",
+        "answer": "Unknown chemical properties"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Darmstadtium?",
+        "answer": "Ds"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ds?",
+        "answer": "Darmstadtium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Darmstadtium?",
+        "answer": "110"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Darmstadtium?",
+        "answer": "Unknown chemical properties"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Roentgenium?",
+        "answer": "Rg"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Rg?",
+        "answer": "Roentgenium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Roentgenium?",
+        "answer": "111"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Roentgenium?",
+        "answer": "Unknown chemical properties"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Copernicium?",
+        "answer": "Cn"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Cn?",
+        "answer": "Copernicium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Copernicium?",
+        "answer": "112"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Copernicium?",
+        "answer": "transition metal"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Nihonium?",
+        "answer": "Nh"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Nh?",
+        "answer": "Nihonium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Nihonium?",
+        "answer": "113"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Nihonium?",
+        "answer": "Unknown chemical properties"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Flerovium?",
+        "answer": "Fl"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Fl?",
+        "answer": "Flerovium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Flerovium?",
+        "answer": "114"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Flerovium?",
+        "answer": "Unknown chemical properties"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Moscovium?",
+        "answer": "Mc"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Mc?",
+        "answer": "Moscovium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Moscovium?",
+        "answer": "115"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Moscovium?",
+        "answer": "Unknown chemical properties"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Livermorium?",
+        "answer": "Lv"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Lv?",
+        "answer": "Livermorium"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Livermorium?",
+        "answer": "116"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Livermorium?",
+        "answer": "Unknown chemical properties"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Tennessine?",
+        "answer": "Ts"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Ts?",
+        "answer": "Tennessine"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Tennessine?",
+        "answer": "117"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Tennessine?",
+        "answer": "Unknown chemical properties"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the chemical symbol for Oganesson?",
+        "answer": "Og"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What element has the symbol Og?",
+        "answer": "Oganesson"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What is the atomic number of Oganesson?",
+        "answer": "118"
+    },
+    {
+        "subject": "Periodic Table",
+        "text": "What category of element is Oganesson?",
+        "answer": "Unknown chemical properties"
+    }
+]

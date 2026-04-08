@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Import Deck</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #1a1a2e;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .card {
+            background-color: #16213e;
+            border: none;
+            border-radius: 16px;
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+        }
+        input[type="text"], input[type="file"] {
+            background-color: #0f3460;
+            border: none;
+            border-radius: 10px;
+            padding: 12px;
+            color: #ffffff;
+            width: 100%;
+            margin-bottom: 16px;
+        }
+        input[type="file"] {
+            cursor: pointer;
+        }
+        .btn-import {
+            background-color: #e94560;
+            border: none;
+            border-radius: 10px;
+            padding: 10px 24px;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            width: 100%;
+        }
+        .btn-import:hover {
+            background-color: #c73652;
+        }
+        .btn-back {
+            display: block;
+            text-align: center;
+            margin-top: 16px;
+            color: #aaaaaa;
+            text-decoration: none;
+        }
+        .btn-back:hover {
+            color: #ffffff;
+        }
+        .error {
+            background-color: #e94560;
+            border-radius: 10px;
+            padding: 12px;
+            margin-bottom: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1 class="mb-4">Import Deck</h1>
+        {% if error %}
+            <div class="error">{{ error }}</div>
+        {% endif %}
+        <form method="POST" enctype="multipart/form-data">
+            <label class="mb-2">Deck Name</label>
+            <input type="text" name="deck_name" placeholder="e.g. AP Biology" required />
+            <label class="mb-2">Anki Text Export (.txt)</label>
+            <input type="file" name="deck_file" accept=".txt" required />
+            <button type="submit" class="btn-import">Import</button>
+        </form>
+        <a href="/" class="btn-back">← Back to subjects</a>
+    </div>
+</body>
+</html>

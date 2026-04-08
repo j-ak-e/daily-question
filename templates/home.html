@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Daily Question</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #1a1a2e;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .card {
+            background-color: #16213e;
+            border: none;
+            border-radius: 16px;
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+        }
+        .subject-btn {
+            display: block;
+            width: 100%;
+            background-color: #0f3460;
+            color: #ffffff;
+            border: none;
+            border-radius: 10px;
+            padding: 16px;
+            margin-bottom: 12px;
+            font-size: 1rem;
+            text-decoration: none;
+            text-align: center;
+            text-transform: capitalize;
+            transition: background-color 0.2s;
+        }
+        .subject-btn:hover {
+            background-color: #e94560;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1 class="mb-4">Daily Question</h1>
+        <p class="mb-4">Choose a subject:</p>
+        {% for subject in subjects %}
+            <a href="/{{ subject }}" class="subject-btn">{{ subject.replace("-", " ") }}</a>
+        {% endfor %}
+        <a href="/import" class="subject-btn" style="background-color: #e94560; margin-top: 8px;">+ Import Deck</a>
+    </div>
+</body>
+</html>
